@@ -1,0 +1,12 @@
+ai_service.py
+app.py
+file_service.py
+git_service.py
+models.py
+pyproject.toml
+terminal_service.py
+PandaCode.egg-info/PKG-INFO
+PandaCode.egg-info/SOURCES.txt
+PandaCode.egg-info/dependency_links.txt
+PandaCode.egg-info/requires.txt
+PandaCode.egg-info/top_level.txt

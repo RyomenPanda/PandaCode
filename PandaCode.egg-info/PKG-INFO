@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: PandaCode
+Version: 0.1.0
+Summary: A native desktop IDE with AI features.
+Requires-Python: >=3.11
+Requires-Dist: PyQt6
+Requires-Dist: google-genai
+Requires-Dist: qdarkstyle

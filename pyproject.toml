@@ -1,0 +1,20 @@
+[project]
+name = "PandaCode"
+version = "0.1.0"
+description = "A native desktop IDE with AI features."
+requires-python = ">=3.11"
+dependencies = [
+    "PyQt6",
+    "google-genai",
+    "qdarkstyle"
+]
+
+[tool.setuptools]
+py-modules = [
+    "ai_service",
+    "app",
+    "file_service",
+    "git_service",
+    "models",
+    "terminal_service"
+]
